@@ -22,9 +22,9 @@ Clarifying questions:
 Funneling questions:
 * Are flats with almost the same characteristics in the same price level? 
 * Does the city district have an influence on the price? baseRent city district
-* Are renovated flats in the same price range as first time use flats? Does the year of construction have an influence on the price? yearConstructed, baseRent
-* Are bigger flats more expensive than smaller flats? Number of rooms, livingSpace, baseRent
-* Do the number of plat offers in a region/city have an influence on the price? City & Scoutid, baseRent
+* Are renovated flats in the same price range as first time use flats? 
+* Are bigger flats more expensive than smaller flats? 
+* Do the number of plat offers in a region/city have an influence on the price?
 
 ### Data
 I’ll work with a scraped dataset from a private person:
