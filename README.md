@@ -1,6 +1,6 @@
 # Python-for-data-analysis-2-
 
-## Immoscout24 - Apartment rental offers in Germany
+## Immobilienscout24 - Apartment rental offers in Germany
 
 ### Introduction
 I live in Berlin. Berlin is a big city that used to have the reputation of having cheap rents. While other cities are certainly still much more expensive, rents in Berlin have risen significantly. I am interested in what rents are like in German cities. 
