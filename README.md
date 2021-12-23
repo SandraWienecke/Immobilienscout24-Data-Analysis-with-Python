@@ -4,7 +4,7 @@
 
 ### Introduction
 I live in Berlin. Berlin is a big city that used to have the reputation of having cheap rents. While other cities are certainly still much more expensive, rents in Berlin have risen significantly. I am interested in what rents are like in German cities. 
-Rental offers data set was scraped from a private person from Immoscout24. The data set contains information about apartment rental offers in Germany, including their characteristics, e.g. location, costs, building fabric & energy certificate, equipment. At a given time, all available offers were scraped from the site and saved. This process was repeated three times, so the data set contains offers from the dates 2018-09-22, 2019-05-10 and 2019-10-08.
+Rental offers data set was scraped from a private person from Immobilienscout24. The data set contains information about apartment rental offers in Germany, including their characteristics, e.g. location, costs, building fabric & energy certificate, equipment. At a given time, all available offers were scraped from the site and saved. This process was repeated three times, so the data set contains offers from the dates 2018-09-22, 2019-05-10 and 2019-10-08.
 Because of scraping, the data belongs to [Immobilienscout24](www.immobilienscount24.de) and is for research purposes only. The data was created with R. 
 I also did a time series analysis to prepare my data for forecasting.
 
